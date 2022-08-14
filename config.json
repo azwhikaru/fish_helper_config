@@ -1,0 +1,48 @@
+{
+  "c": true,
+  "alipays": "alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19",
+  "qqGroupKey": "G_GgPypSkNqT7roz8CMbHbNTkkOQVbbv",
+  "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
+  "minAdapt": "7.1.30",
+  "maxAdapt": "7.2.70",
+  "dialogTitle": "提示！！！",
+  "dialogIntro": "旧版猪手不适配7.2.80以及之后的版本了，请更新猪手到1.3.3~",
+  "dialogShow": true,
+  "dialogExit": false,
+  "dialogTime": 1,
+  "updateInfo": {
+    "u": true,
+    "f": false,
+    "vn": "1.3.8",
+    "vc": 40,
+    "du": "https://skyhand.lanzoui.com/b03bxzehe",
+    "dt": "密码:xyzs",
+    "title": "闲鱼猪手1.3.8更新啦！！！",
+    "intro": "\n\n对比1.3.7更新记录:\n 1. 修复 部分用户出现报错的情况\n2. 适配7.3.80以及之后的版本\n3. 闲鱼币玩法改版适配（签到、任务、经验升级、店铺升级、领取鱼币）\n备注：首次使用新版本鱼币玩法需要先手动选择店铺类型",
+    "time": 3
+  },
+  "beta": {
+    "c": true,
+    "alipays": "alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19",
+    "qqGroupKey": "G_GgPypSkNqT7roz8CMbHbNTkkOQVbbv",
+    "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
+    "minAdapt": "7.1.30",
+    "maxAdapt": "7.2.70",
+    "dialogTitle": "提示标题",
+    "dialogIntro": "提示内容",
+    "dialogShow": false,
+    "dialogExit": false,
+    "dialogTime": 5,
+    "updateInfo": {
+      "u": true,
+      "f": false,
+      "vn": "1.3.8",
+      "vc": 40,
+      "du": "https://skyhand.lanzoui.com/b03bxzehe",
+      "dt": "密码:xyzs",
+      "title": "闲鱼猪手1.3.8更新啦！！！",
+      "intro": "\n\n对比1.3.7更新记录:\n 1. 修复 部分用户出现报错的情况\n2. 适配7.3.80以及之后的版本\n3. 闲鱼币玩法改版适配（签到、任务、经验升级、店铺升级、领取鱼币）\n备注：首次使用新版本鱼币玩法需要先手动选择店铺类型",
+      "time": 3
+    }
+  }
+}

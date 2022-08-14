@@ -1,0 +1,11 @@
+{
+  "alway": false,
+  "title": "严正声明",
+  "intro":"当前软件版本免费使用，仅作为学习交流，请勿售卖！！！",
+  "exit": false,
+  "show": true,
+  "f": true,
+  "url": "",
+  "time": 4,
+  "v": 3
+}
