@@ -1,7 +1,7 @@
 {
-  "alway": false,
-  "title": "严正声明",
-  "intro":"当前软件版本免费使用，仅作为学习交流，请勿售卖！！！",
+  "alway": true,
+  "title": "提示",
+  "intro":"该版本由 azwhikaru 提供，请勿滥用、滥改",
   "exit": false,
   "show": true,
   "f": true,
