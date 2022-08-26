@@ -15,3 +15,6 @@
 
 `https://gitee.com/tpnet/fish-helper-data/raw/master/config-a40.json` ->    `https://raw.githubusercontent.com/azwhikaru/fish_helper_config/main/config-a40.json` ->   
 `https://cdn.jsdelivr.net/gh/azwhikaru/fish_helper_config@main/config-a40.json` √
+
+## 懒人
+- 如果不想自己改，可以直接[下载](https://github.com/azwhikaru/fish_helper_config/releases/download/1.3.9/XYZS_1.3.9_sign.apk)我改好的
