@@ -2,6 +2,12 @@
 > 本仓库存储原作者在停止使用前的最后一次 commit   
 > 不欢迎任何倒卖、滥用、滥改
 
+## 适配版本
+- 7.1.30 ~ 7.6.70
+
+## 如何编写 Config
+- ~~待补充~~
+
 ## 如何定制
 - fork 本仓库
 - 下载 [1.3.9_sub.apk](https://github.com/azwhikaru/fish_helper_config/blob/main/1.3.9_sub.apk)
