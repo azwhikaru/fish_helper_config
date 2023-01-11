@@ -4,7 +4,7 @@
   "qqGroupKey": "",
   "qqGroupTitle": "",
   "minAdapt": "7.1.30",
-  "maxAdapt": "9.9.99",
+  "maxAdapt": "7.8.80",
   "dialogTitle": "提示",
   "dialogIntro": "该版本由 azwhikaru 提供，请勿滥用、滥改",
   "dialogShow": false,
@@ -18,7 +18,7 @@
     "du": "https://github.com/azwhikaru/fish_helper_config/",
     "dt": "by azwhikaru",
     "title": "闲鱼猪手 *MOD*",
-    "intro": "\n替换 jsDelivr 源",
+    "intro": "\n换源",
     "time": 3
   },
   "beta": {
@@ -27,7 +27,7 @@
     "qqGroupKey": "",
     "qqGroupTitle": "",
     "minAdapt": "7.1.30",
-    "maxAdapt": "9.9.99",
+    "maxAdapt": "7.8.80",
     "dialogTitle": "提示标题",
     "dialogIntro": "提示内容",
     "dialogShow": false,
@@ -41,7 +41,7 @@
       "du": "https://github.com/azwhikaru/fish_helper_config/",
       "dt": "by azwhikaru",
       "title": "闲鱼猪手 *MOD*",
-      "intro": "\n替换 jsDelivr 源",
+      "intro": "\n换源",
       "time": 3
     }
   }
